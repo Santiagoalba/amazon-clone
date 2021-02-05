@@ -13,14 +13,53 @@ function Home() {
         />
 
         <div className="home__row">
-          <Product />
+          <Product title='The lean startup dsadasl,dñas,dlñas{,dñasñd,aslñd,lasñ,dñlas,dñlas,dñla'
+            price={29.99}
+            image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg'
+            rating={5}
+          />
+          <Product title='The lean startup'
+            price={29.99}
+            image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg'
+            rating={5}
+          />
+          <Product title='The lean startup'
+            price={29.99}
+            image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg'
+            rating={5}
+          />
         </div>
-        <div className="home__row">{/* Product*/}</div>
+        <div className="home__row"><Product title='The lean startup'
+            price={29.99}
+            image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg'
+            rating={5}
+          />
+          <Product title='The lean startup'
+            price={29.99}
+            image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg'
+            rating={5}
+          /><Product title='The lean startup'
+          price={29.99}
+          image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg'
+          rating={5}
+        />
+        <Product title='The lean startup'
+          price={29.99}
+          image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg'
+          rating={5}
+        /></div>
 
         <div className="home__row">
-          {/* Product*/}
-          {/* Product*/}
-          {/* Product*/}
+        <Product title='The lean startup'
+            price={29.99}
+            image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg'
+            rating={5}
+          />
+          <Product title='The lean startup'
+            price={29.99}
+            image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg'
+            rating={5}
+          />
         </div>
       </div>
     </div>
