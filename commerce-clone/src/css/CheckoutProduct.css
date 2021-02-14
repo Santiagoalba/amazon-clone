@@ -1,11 +1,10 @@
 .checkoutProduct {
-  width: 100%;
   margin: 20px 0;
   display: flex;
-  justify-content: space-between;
 }
 
 .checkoutProduct__info {
+  padding-left: 20px;
 }
 
 .checkoutProduct__rating {
